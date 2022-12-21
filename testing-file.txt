@@ -1,3 +1,4 @@
 Adding some contents in test branch
 Some more changes
 Disabling fastforward
+Adding some changes to get merge conflict
