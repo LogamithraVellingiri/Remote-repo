@@ -8,3 +8,6 @@ Basic commands,merging and branching etc....
 There are many new versions to use 
 ##Conclusion
 The end of course
+
+Disabling fast forward
+Somechanges
