@@ -11,3 +11,4 @@ The end of course
 
 Disabling fast forward
 Somechanges
+Adding for rebase example
